@@ -10,8 +10,8 @@
         public function __construct(){
             $this->host = 'localhost';
             $this->db = 'API_PHP';
-            $this->user = 'api_php';
-            $this->password = 'GhJ852963';
+            $this->user = 'user';
+            $this->password = 'password';
             $this->charset = 'uft8mb4';
         }
 
